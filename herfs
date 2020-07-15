@@ -16,3 +16,4 @@ https://kbss.ru/blog/python/340.html - русскоязычная докумен
 https://habr.com/ru/post/421625/ - неплохой обзор многопоточности в питоне
 https://habr.com/ru/company/otus/blog/501056/ - multiprocessing в питоне достаточно простым языком (развернутая метафора про волшебников)
 https://vovkd.github.io/gevent-tutorial/ - документация на русском про микропотоки (гринлеты)
+http://python-3.ru/page/multiprocessing - чуть более развернутая документация про multiprocessing
