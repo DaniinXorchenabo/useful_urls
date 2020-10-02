@@ -1,0 +1,9 @@
+https://habr.com/ru/company/ruvds/blog/439980/ - подробный гайд по докерам из множества частей
+https://habr.com/ru/post/346634/ - большая статья про введение в докер
+https://habr.com/ru/post/310460/ - и еще одна статья про введение в докер
+https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesli-by-on-byl-ighrovoi-pristavkoi/ - и еще одна по введени. в докер
+https://youtu.be/goRplEIu5xk - видос по установке докера
+-----------------
+docker build <путь до папки с докерфайлом, если он в этой, то .> --tag <имя твоего докера>
+docker run <имя твоего докера>
+docker system prune - удаляет лишний мусор при использовании докера
