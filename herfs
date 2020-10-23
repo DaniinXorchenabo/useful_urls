@@ -23,3 +23,4 @@ https://habr.com/ru/post/455056/ - консольная графика (<graphic
 https://www.cs.colorado.edu/~main/bgi/dev-c++/ - еще одна ссылка, связанныа с <graphics.h> ^
 https://youtu.be/ekKuvz5bNmM - понятный гайд по тому, как работает CI (милые рисуночки и женский голос)
 https://ifedyukin.ru/blog/2018/telegram_ci - ставим ТГ бота на gitlab CI
+https://cdnnow.ru/blog/gitlab2tg/ - более элегантная система с ТГ ботом и gitLab
