@@ -1,6 +1,8 @@
 https://habr.com/ru/post/174467/
 https://habr.com/ru/post/150001/ (diffuse) - обзор инструментов для слияния
 https://habr.com/ru/post/195674/
+https://techblog.sdstudio.top/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error - слияние двух веток/репозиториев c разной историей изменений
 -------------------------------------
 git mergetool --tool=diffuse - сливание с использованием внеконсольного инструмента
 git remote set-url origin <репозиторий>.git - установление связи сервера с локальным репозиторием
+git pull --allow-unrelated-histories || git merge --allow-unrelated-histories
