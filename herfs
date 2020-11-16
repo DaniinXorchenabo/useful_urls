@@ -24,3 +24,4 @@ https://www.cs.colorado.edu/~main/bgi/dev-c++/ - еще одна ссылка, �
 https://youtu.be/ekKuvz5bNmM - понятный гайд по тому, как работает CI (милые рисуночки и женский голос)
 https://ifedyukin.ru/blog/2018/telegram_ci - ставим ТГ бота на gitlab CI
 https://cdnnow.ru/blog/gitlab2tg/ - более элегантная система с ТГ ботом и gitLab
+https://habr.com/ru/company/lamoda/blog/432656/ - Аннотатции || Подсказки типов в Python (def add(a:int = 0) -> str)
