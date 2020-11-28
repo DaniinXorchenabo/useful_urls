@@ -6,3 +6,4 @@ https://techblog.sdstudio.top/edpresso/the-fatal-refusing-to-merge-unrelated-his
 git mergetool --tool=diffuse - сливание с использованием внеконсольного инструмента
 git remote set-url origin <репозиторий>.git - установление связи сервера с локальным репозиторием
 git pull --allow-unrelated-histories || git merge --allow-unrelated-histories
+git fetch --all & git reset --hard origin/master - перезалив гита с сервера (аолное удаление локальных изменений)
