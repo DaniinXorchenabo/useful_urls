@@ -25,3 +25,4 @@ https://youtu.be/ekKuvz5bNmM - понятный гайд по тому, как �
 https://ifedyukin.ru/blog/2018/telegram_ci - ставим ТГ бота на gitlab CI
 https://cdnnow.ru/blog/gitlab2tg/ - более элегантная система с ТГ ботом и gitLab
 https://habr.com/ru/company/lamoda/blog/432656/ - Аннотатции || Подсказки типов в Python (def add(a:int = 0) -> str)
+https://docs-python.ru/standart-library/modul-os-python/funktsija-exec-modulja-os/ - функция exec*()
