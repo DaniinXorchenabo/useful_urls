@@ -2,8 +2,10 @@ https://habr.com/ru/post/174467/
 https://habr.com/ru/post/150001/ (diffuse) - обзор инструментов для слияния
 https://habr.com/ru/post/195674/
 https://techblog.sdstudio.top/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error - слияние двух веток/репозиториев c разной историей изменений
+https://ru.stackoverflow.com/questions/431520/Как-вернуться-откатиться-к-более-раннему-коммиту - работа с откатами к комитам
 -------------------------------------
 git mergetool --tool=diffuse - сливание с использованием внеконсольного инструмента
 git remote set-url origin <репозиторий>.git - установление связи сервера с локальным репозиторием
 git pull --allow-unrelated-histories || git merge --allow-unrelated-histories
 git fetch --all & git reset --hard origin/master - перезалив гита с сервера (аолное удаление локальных изменений)
+git push <local_branch_name>:<new_global_branch_name> - залив новой ветки на гит с заданием ей имени. Можно выполнять из любой ветки
