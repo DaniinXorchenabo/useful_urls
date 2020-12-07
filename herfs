@@ -26,3 +26,6 @@ https://ifedyukin.ru/blog/2018/telegram_ci - ставим ТГ бота на git
 https://cdnnow.ru/blog/gitlab2tg/ - более элегантная система с ТГ ботом и gitLab
 https://habr.com/ru/company/lamoda/blog/432656/ - Аннотатции || Подсказки типов в Python (def add(a:int = 0) -> str)
 https://docs-python.ru/standart-library/modul-os-python/funktsija-exec-modulja-os/ - функция exec*()
+https://habr.com/ru/company/otus/blog/511840/ -  fast-api несложный туториал
+https://nuancesprog-ru.turbopages.org/nuancesprog.ru/s/p/10210/ --  fast-api более сложный туториал
+https://habr.com/ru/post/513328/ -  fast-api сложный туториал
