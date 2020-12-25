@@ -30,3 +30,5 @@ https://habr.com/ru/company/otus/blog/511840/ -  fast-api несложный т�
 https://nuancesprog-ru.turbopages.org/nuancesprog.ru/s/p/10210/ --  fast-api более сложный туториал
 https://habr.com/ru/post/513328/ -  fast-api сложный туториал
 https://github.com/ponyorm/pony/tree/orm-migrations/pony/migrate#database-migrations-with-pony - Миграции в Pony ORM
+https://crackstation.net/hashing-security.htm -как правильно хешировать пароли
+https://python-scripts.com/haslib-pbkdf2-check-password - хеширование в питоне с помощью pbkdf2
