@@ -1,0 +1,6 @@
+# Raspberry pi 4
+https://habr.com/ru/post/526876/ - настройка ы качестве десктопа (браузер ...)
+https://dmitrysnotes.ru/raspberry-pi-4-obzor-i-testirovanie - установка системы через установщик от Raspbian, тестирование по загрузки
+
+# Raspberry pi 3
+https://dmitrysnotes.ru/raspberry-pi-3-udalennoe-upravlenie-cherez-ssh-i-vnc - удалённый доступ через VNS и SSH
