@@ -1,0 +1,9 @@
+https://ravesli.com/urok-141-konstruktor-kopirovaniya/ - конмтруктор копирования
+https://qna.habr.com/q/858839 - использование unique_ptr в списках из разных объектов-потомков
+https://ravesli.com/urok-80-ukazateli-vvedenie/ - нормально рассказано рпо ссылки и указатели
+http://scrutator.me/post/2012/01/18/smart-pointers.aspx - умные указатели (понятно рассказано) shared_ptr и unique_ptr
+https://habr.com/ru/post/352570/ - непонятно, по подробно как работают умные указатели на уровне памяти
+https://codelessons.ru/cplusplus/spisok-list-v-s-polnyj-material.html - работа со списокм (методы и т.д.)
+https://metanit.com/cpp/tutorial/7.6.php - более подробныя работа со списком
+http://itnotesblog.ru/note.php?id=218 - умные указатели при возвращении их из функции
+https://habr.com/ru/post/132014/ - довольно понятно о перегрухке операторов
