@@ -9,3 +9,5 @@ https://habr.com/ru/post/518386/ - ООП в js с class, статические
 https://habr.com/ru/post/522380/ - 4 варианта создания ООП, проблема this и ее решение
 http://shpargalkablog.ru/2013/08/checked.html - крутой гайд по checkbox и radiobutton
 https://nuancesprog-ru.turbopages.org/nuancesprog.ru/s/p/4443/ - копирование (и глубокое тоже) объектов в js
+http://e-javascript.ru/select.php?pp=10 - работа с тегом <select> из js
+https://qna.habr.com/q/18012 - скрыть полосу прокрутки, но оставить все возможность прокручивать
