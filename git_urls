@@ -3,6 +3,7 @@ https://habr.com/ru/post/150001/ (diffuse) - обзор инструментов
 https://habr.com/ru/post/195674/
 https://techblog.sdstudio.top/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error - слияние двух веток/репозиториев c разной историей изменений
 https://ru.stackoverflow.com/questions/431520/Как-вернуться-откатиться-к-более-раннему-коммиту - работа с откатами к комитам
+https://webdevkin.ru/posts/raznoe/git-fork - Зачем нужны fork-и и как с ними работать (очень понятно на примере, зачем они всё-таки нужны)
 -------------------------------------
 git mergetool --tool=diffuse - сливание с использованием внеконсольного инструмента
 git remote set-url origin <репозиторий>.git - установление связи сервера с локальным репозиторием
