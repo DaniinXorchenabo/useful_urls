@@ -33,3 +33,4 @@ https://github.com/ponyorm/pony/tree/orm-migrations/pony/migrate#database-migrat
 https://github.com/ponyorm/pony/issues/16#issuecomment-400161683 - Миграции в Pony ORM
 https://crackstation.net/hashing-security.htm -как правильно хешировать пароли
 https://python-scripts.com/haslib-pbkdf2-check-password - хеширование в питоне с помощью pbkdf2
+https://stackoverflow.com/questions/60778279/fastapi-middleware-peeking-into-responses - асинхронный генератор в питоне
