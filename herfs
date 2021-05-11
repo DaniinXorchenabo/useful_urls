@@ -34,3 +34,4 @@ https://github.com/ponyorm/pony/issues/16#issuecomment-400161683 - Миграц�
 https://crackstation.net/hashing-security.htm -как правильно хешировать пароли
 https://python-scripts.com/haslib-pbkdf2-check-password - хеширование в питоне с помощью pbkdf2
 https://stackoverflow.com/questions/60778279/fastapi-middleware-peeking-into-responses - асинхронный генератор в питоне
+https://habr.com/ru/company/otus/blog/504102/ - введение в functools (надо проситать)
