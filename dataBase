@@ -1,0 +1,3 @@
+https://aws.amazon.com/ru/blogs/database/managing-postgresql-users-and-roles/ - работа с пользователями в postgresql
+https://linuxhint.com/run_postgresql_docker_compose/ - запуск postgresql в docker
+https://linuxhint.com/postgresql_docker/ - запуск postgresql и pgAdmin в docker-compose
