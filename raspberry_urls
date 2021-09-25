@@ -3,6 +3,11 @@ https://habr.com/ru/post/526876/ - настройка ы качестве дес
 https://dmitrysnotes.ru/raspberry-pi-4-obzor-i-testirovanie - установка системы через установщик от Raspbian, тестирование по загрузки
 https://www.howtoforge.com/tutorial/how-to-start-a-vnc-server-for-the-actual-display-scraping-with-tigervnc/?__cf_chl_captcha_tk__=79d4d4ad2f50aa1a13d135cfce5496f7a8ed70e0-1618837599-0-AbVOOzpGQbZkz5D1jgls0usO9spgjYgGq0Vw2PBN7KZ6J7QClEhU2nw_Tuzt1ZIkI6KWqiEuR2mzXTj9tTV8I9Wku3-HcKmS3dsyk2yVQJzJjZSWsZA-WwbPxjo1fwF8oLjuz3fYHgECoXlSguyXYfr_j6oLTw531eLwlfMLVvSyVPa8wmMguQZVqljSXJdWUOQvRep3WT8YwSjRRlvnJOHRc_vk0_KCxbI-WP8IrkLbdLjxIJPA_oHX0WC8109Ys7WppdkJKq49mmi-yXx2URwGDAN9X_DyMTJwX4LiM2RNDEXalflqn0F4_zx8pVWsgpbBiEqTeKhd-8nDIT_T4YRFKr2xpawJgDvnolCwmEERQ5S6SOY6s-cpaja14h7Ou0aC8dNNZ_ccf4CTUZtLfIJOX3IIFElzqeeP-j0Untw6v7nv_4XcvflHH79ae807EKeQf_U-YXJrEcrm0LiZtECoKsNRiHbxZPpWNCAG4UTha6kFRowQ38ms-jqHRw9QIVhYX9YoSX6igQGQWMdPgCGhDl9ZmGndXQSOzh-lqnCaHx6gg9quII0TDRn6dp2PWEkcxBKks2acQYXYeioEwqvOiiZMeHf_-GjrnFyYNSW3wQK0PRcBWaC0jR8oxuUemsgaxEu6ncZgWFc8oO1KsTnAJzAGMe7VPgg8OshuCW6x60hgmDiBWkMl4NwmXfSEYw - 
 - vnc для raspberry под управлением ubuntu
+https://docs.docker.com/engine/install/ubuntu/ - установка докера в ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04-ru - настройки брандмауэра в ubuntu
+https://jonathanmeier.io/install-docker-and-docker-compose-raspberry-pi/ - добавить команду докера в пользователя, не использующего `sudo`
+http://test-ipv6.com/ - тестирование соединения на ipv6
+http://ipv6.google.com/ - страница, которая отвечает только белому ipv6
 
 # Raspberry pi 3
 https://dmitrysnotes.ru/raspberry-pi-3-udalennoe-upravlenie-cherez-ssh-i-vnc - удалённый доступ через VNS и SSH
