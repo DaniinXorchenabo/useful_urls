@@ -1,3 +1,7 @@
 https://aws.amazon.com/ru/blogs/database/managing-postgresql-users-and-roles/ - работа с пользователями в postgresql
 https://linuxhint.com/run_postgresql_docker_compose/ - запуск postgresql в docker
 https://linuxhint.com/postgresql_docker/ - запуск postgresql и pgAdmin в docker-compose
+https://3-info.ru/post/14367 - про раздувание в postgres и про которкие транзакции
+https://pythonru.com/biblioteki/crud-sqlalchemy-orm - русскоязычная документация по алхимии
+https://xnuinside.medium.com/sqlalchemy-metaclasses-and-declarative-base-configure-db-models-classes-a904429d728a - использование стиля pydantic для написания таблиц в алхимии
+https://habr.com/ru/company/domclick/blog/581304/ - как оптимизировать запросы в sqlAlchemy
