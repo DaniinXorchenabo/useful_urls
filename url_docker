@@ -5,6 +5,8 @@ https://badcode.ru/docker-tutorial-dlia-novichkov-rassmatrivaiem-docker-tak-iesl
 https://youtu.be/goRplEIu5xk - видос по установке докера
 https://habr.com/ru/post/322440/ - некоторые полезные моменты по работе с docker-compose
 https://habr.com/ru/company/ruvds/blog/450312/ - начало работы с docker-compose
+https://russianblogs.com/article/823288305/ - глубокий гайд по возможностям docker-compose
+
 -----------------
 docker build <путь до папки с докерфайлом, если он в этой, то .> --tag <имя твоего докера>
 docker run <имя твоего докера>
