@@ -6,6 +6,7 @@ https://youtu.be/goRplEIu5xk - видос по установке докера
 https://habr.com/ru/post/322440/ - некоторые полезные моменты по работе с docker-compose
 https://habr.com/ru/company/ruvds/blog/450312/ - начало работы с docker-compose
 https://russianblogs.com/article/823288305/ - глубокий гайд по возможностям docker-compose
+https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose - лучшие практики по написанию докеркомпоса
 
 -----------------
 docker build <путь до папки с докерфайлом, если он в этой, то .> --tag <имя твоего докера>
