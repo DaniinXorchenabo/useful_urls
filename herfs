@@ -36,3 +36,4 @@ https://python-scripts.com/haslib-pbkdf2-check-password - хеширование
 https://stackoverflow.com/questions/60778279/fastapi-middleware-peeking-into-responses - асинхронный генератор в питоне
 https://habr.com/ru/company/otus/blog/504102/ - введение в functools (надо проситать)
 https://hynek.me/articles/waiting-in-asyncio/ - ожидания, timeout'ы в asyncio
+https://www.devdungeon.com/content/working-git-repositories-python - работа с git'ом в питоне
