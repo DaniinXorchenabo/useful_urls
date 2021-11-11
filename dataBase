@@ -6,3 +6,4 @@ https://pythonru.com/biblioteki/crud-sqlalchemy-orm - русскоязычная
 https://xnuinside.medium.com/sqlalchemy-metaclasses-and-declarative-base-configure-db-models-classes-a904429d728a - использование стиля pydantic для написания таблиц в алхимии
 https://habr.com/ru/company/domclick/blog/581304/ - как оптимизировать запросы в sqlAlchemy
 https://habr.com/ru/post/304258/ - путешествие вслед за SELECT внутрь постгреса
+https://schoolsw3.com/sql/sql_insert_into_select.php - SQL в постгресе
